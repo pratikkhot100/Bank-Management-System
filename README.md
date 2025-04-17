@@ -134,7 +134,6 @@ POST	/api/accounts	Create new account
 GET	/api/accounts/{id}	View account details
 PUT	/api/accounts/{id}	Update account info
 DELETE	/api/users/{id}	Delete a user
-🔗 Optional Swagger UI: http://localhost:8080/swagger-ui.html
 
 ---
 
