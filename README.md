@@ -1,6 +1,6 @@
 # 🏦 Bank Management System
 
-A secure, feature-rich, and responsive **Bank Management System** built with modern Java and web technologies. This project helps manage banking operations like customer registration, account handling, fund transfers, and user role access with a clean UI and robust backend.
+The **Bank Management System** is a secure, scalable, and user-friendly application that simulates real-world banking operations using **Spring Boot**, **Thymeleaf**, and **MySQL**. It incorporates **Spring Security** for authentication and authorization, **JWT** for secure token-based communication, and **OAuth2** for third-party login options like Google and GitHub. The system provides essential banking features such as deposits, withdrawals, fund transfers, and transaction history, while supporting **role-based access control** for Admin, Employee, and Customer roles. Its architecture follows a **layered design** with clear separation between the **Controller**, **Service**, **Repository**, and **Security** layers, making it scalable for future enhancements like multi-currency support and loan management. Built with a focus on security, user experience, and real-time functionality, it ensures a seamless and safe experience for both desktop and mobile users. A secure, feature-rich, and responsive **Bank Management System** built with modern Java and web technologies. This project helps manage banking operations like customer registration, account handling, fund transfers, and user role access with a clean UI and robust backend.
 
 ---
 
@@ -28,6 +28,10 @@ A secure, feature-rich, and responsive **Bank Management System** built with mod
 
 ---
 
+## 📸 Some Screenshots for the project:
+
+---
+
 ## 🔐 Security Features
 
 - ✅ **Authentication** with Spring Security & OAuth2
@@ -45,7 +49,7 @@ A secure, feature-rich, and responsive **Bank Management System** built with mod
 - 💳 Account Creation & Management
 - 🔄 Deposit, Withdraw, and Transfer Funds
 - 📜 View Transaction History
-- 🔐 Role-based dashboards (Admin/Employee/Customer)
+- 🔐 Role-based dashboards (Customer)
 - 🛡️ Secure Authentication & Authorization
 - 📊 Admin Panel for managing users & roles
 - 🌐 REST APIs for external integrations
@@ -74,7 +78,7 @@ A secure, feature-rich, and responsive **Bank Management System** built with mod
 ## 🧱 Project Structure
 
 ```
-bank-management-system/ ├── src/ │ └── main/ │ ├── java/ │ │ └── com/example/bank/ │ │ ├── config/ # 🔐 Security, OAuth2, JWT configs │ │ ├── controller/ # 🎮 REST & MVC controllers │ │ ├── dto/ # 📦 Data Transfer Objects │ │ ├── model/ # 🧩 JPA Entity classes │ │ ├── repository/ # 📚 Spring Data JPA Repositories │ │ ├── service/ # 🧠 Business Logic Layer │ │ └── BankApp.java # 🚀 Main Spring Boot Application │ └── resources/ │ ├── static/ # 🎨 Static files (CSS, JS, Images) │ ├── templates/ # 🧾 Thymeleaf HTML Templates │ └── application.properties # ⚙️ App Configurations ├── pom.xml # 🛠️ Maven Build Configuration └── README.md # 📄 Project Documentation
+bank-management-system/ ├── src/│└── main/ │ ├── java/ │ │ └── com/example/bank/ │ │ ├── config/ # 🔐 Security, OAuth2, JWT configs │ │ ├── controller/ # 🎮 REST & MVC controllers │ │ ├── dto/ # 📦 Data Transfer Objects │ │ ├── model/ # 🧩 JPA Entity classes │ │ ├── repository/ # 📚 Spring Data JPA Repositories │ │ ├── service/ # 🧠 Business Logic Layer │ │ └── BankApp.java # 🚀 Main Spring Boot Application │ └── resources/ │ ├── static/ # 🎨 Static files (CSS, JS, Images) │ ├── templates/ # 🧾 Thymeleaf HTML Templates │ └── application.properties # ⚙️ App Configurations ├── pom.xml # 🛠️ Maven Build Configuration └── README.md # 📄 Project Documentation
 ```
 
 ---
@@ -145,13 +149,14 @@ DELETE	/api/users/{id}	Delete a user
 ---
 
 ## 📞 Contact
-  Created with ❤️ by [Pratik Khot]
 
-  🌐 your-portfolio.com
+Created with ❤️ by [Pratik Khot](https://www.instagram.com/k.pratik01)
 
-  🐙 GitHub
+🌐 [portfolio.com](https://portfoliopratikkhot.netlify.app/)
 
-  💼 LinkedIn
+🐙 [GitHub](https://github.com/pratikkhot100)
 
-  📧 your.email@example.com
+💼 [LinkedIn](https://www.linkedin.com/in/pratikkhot01)
+
+📧 [pratikkhot1207.email@example.com](mailto:pratikkhot1207.email@example.com)
 
