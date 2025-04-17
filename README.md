@@ -13,7 +13,6 @@ The **Bank Management System** is a secure, scalable, and user-friendly applicat
 
 ### ⚙️ Backend
 - 🧩 **Spring Boot**
-- 🧩 **Spring MVC**
 - 🔐 **Spring Security** (with Secure Authentication and Authorization)
 - 🔐 **OAuth2** (for third-party login integration)
 - 🧪 **RESTful APIs**
