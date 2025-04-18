@@ -63,6 +63,8 @@ The **Bank Management System** is a secure, scalable, and user-friendly applicat
 
 ![Screenshot 2025-04-18 012814](https://github.com/user-attachments/assets/5970f7e5-6d80-464d-bcfd-980ff83f73e5)
 
+![Screenshot 2025-04-18 012834](https://github.com/user-attachments/assets/246135a0-721e-4948-a82b-963a69b501ed)
+
 ![Screenshot 2025-04-18 012922](https://github.com/user-attachments/assets/b826b3d0-3ade-4177-8f0e-6f126df46b9e)
 
 ![Screenshot 2025-04-18 012939](https://github.com/user-attachments/assets/7f0bedf4-e853-4687-99cc-ccda2ac434fb)
